@@ -25,7 +25,7 @@
    inkscape:export-ydpi="360"><metadata
      id="metadata3091"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
      id="defs3089" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,9 +39,9 @@
      inkscape:window-height="480"
      id="namedview3087"
      showgrid="true"
-     inkscape:zoom="8"
-     inkscape:cx="312.69102"
-     inkscape:cy="2556.0301"
+     inkscape:zoom="26.5"
+     inkscape:cx="312.76649"
+     inkscape:cy="2546.898"
      inkscape:current-layer="Layer_1"
      inkscape:snap-bbox="false"
      inkscape:snap-global="true"><inkscape:grid
