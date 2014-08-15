@@ -14,3 +14,7 @@ The second stage reenters the atmosphere upside-down, with the top
 side of the stage entering first. The top side has a heatshield, which
 protects the body. It lands upside-down with eight SuperDraco engines
 in a configuration similar to the Dragon v2.
+
+# License
+
+CC0.
