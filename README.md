@@ -18,3 +18,7 @@ in a configuration similar to the Dragon v2.
 # License
 
 CC0.
+
+# Donate
+
+Bitcoin: [1BRyexrFpC8xkvcNBjERqsD77Tj2sPyZhg](bitcoin:1BRyexrFpC8xkvcNBjERqsD77Tj2sPyZhg?amount=0.02)
