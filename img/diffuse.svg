@@ -21,12 +21,12 @@
    width="100%"
    height="100%"
    sodipodi:docname="diffuse.svg"
-   inkscape:export-filename="/home/forest/projects/3d/vehicles/spacex/f9r-v2/img/fh-diffuse.png"
+   inkscape:export-filename="/home/forest/projects/3d/vehicles/spacex/f9r-v2/img/diffuse.png"
    inkscape:export-xdpi="360"
    inkscape:export-ydpi="360"><metadata
      id="metadata3091"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
      id="defs3089" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -40,9 +40,9 @@
      inkscape:window-height="727"
      id="namedview3087"
      showgrid="true"
-     inkscape:zoom="4.6845824"
-     inkscape:cx="215.29539"
-     inkscape:cy="1785.3479"
+     inkscape:zoom="0.2927864"
+     inkscape:cx="-412.30889"
+     inkscape:cy="783.21357"
      inkscape:current-layer="Layer_1"
      inkscape:snap-bbox="false"
      inkscape:snap-global="true"
@@ -56,13 +56,13 @@
        type="xygrid"
        id="grid3093" /></sodipodi:namedview><image
      y="0"
-     x="-675.78265"
+     x="-1861"
      id="image4055"
      xlink:href="file:///home/forest/projects/3d/vehicles/spacex/f9r-v2/img/uv.png"
      height="2048"
      width="1024" /><g
      id="g3264"
-     transform="matrix(0.68456343,0,0,0.68456343,-233.10854,-51.630135)"><path
+     transform="matrix(0.64429881,0,0,0.64429881,-216.83556,-24.006502)"><path
        sodipodi:nodetypes="ssssscscccsscccccccscccssssccc"
        style="fill:#be0a0f"
        d="m 423.76832,539.19946 c -0.34315,0.63985 -1.26004,1.23172 -1.90807,1.23172 -0.70793,0 -1.59273,-0.48607 -1.96528,-1.07964 -0.57447,-0.91529 -0.39839,-2.13049 0.41692,-2.87768 1.85485,-1.69985 4.64838,0.50306 3.45643,2.7256 z m -2.89538,-5.57347 c -1.8552,0.38515 -3.21585,1.82701 -3.66482,3.88359 l -0.10474,0.47966 -2.17699,0 -2.17698,0 0,-0.57383 c 0,-0.87735 0.45927,-2.44896 1.0681,-3.65506 1.33466,-2.64392 4.63925,-4.81925 7.34787,-4.83691 l 0.65409,-0.004 0,2.25514 0,2.25516 -0.94658,0.1965 z m -7.29029,-3.59401 c -1.82755,1.84084 -2.91611,3.9941 -3.29013,6.50812 l -0.21559,1.44914 -2.96305,0 -2.96304,0 0.10578,-1.43901 c 0.15262,-2.07572 0.69715,-3.96023 1.77663,-6.14845 2.14966,-4.35762 5.56462,-7.39465 10.17642,-9.05022 1.36804,-0.4911 3.82791,-0.97918 4.935,-0.97918 l 0.67485,0 -0.0361,6.30399 c -1.29055,0 -4.51697,0 -8.20075,3.35561 z"
@@ -107,17 +107,17 @@
          sodipodi:role="line">2</tspan></text>
 </g><text
      xml:space="preserve"
-     style="font-size:27.38253784px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-     x="-242.73213"
-     y="48.746822"
+     style="font-size:25.77195358px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="-253.04198"
+     y="48.441647"
      id="text3274"
      sodipodi:linespacing="125%"
      transform="matrix(0,-1,1,0,0,0)"><tspan
        sodipodi:role="line"
        id="tspan3276"
-       x="-242.73213"
-       y="48.746822"
-       style="font-size:6.84563446px;font-weight:bold">TM</tspan></text>
+       x="-253.04198"
+       y="48.441647"
+       style="font-size:6.4429884px;font-weight:bold">TM</tspan></text>
 <g
      id="g4058"
      transform="matrix(0.74013176,0,0,0.74013176,234.79734,251.13878)"><rect
@@ -1014,7 +1014,7 @@
        id="path3085"
        inkscape:connector-curvature="0"
        style="fill:#a7a9ac" /></g><g
-     transform="matrix(0.28962466,0,0,0.28962466,173.65819,775.3641)"
+     transform="matrix(0.28962466,0,0,0.28962466,173.65819,763.81693)"
      id="g4130"><rect
        y="133.3927"
        x="70.615509"
@@ -1865,7 +1865,7 @@
        transform="matrix(0.52972833,0,0,0.52972833,80.072835,-75.930955)"
        inkscape:transform-center-y="-0.15175485" /></g><g
      id="g4351"
-     transform="matrix(0.21688766,0,0,0.21688766,82.393175,594.54108)"><path
+     transform="matrix(0.21688766,0,0,0.21688766,82.393175,582.99391)"><path
        sodipodi:nodetypes="ccsssccccccsscsssccccsscsssssssccssssss"
        inkscape:connector-curvature="0"
        id="path4347"

@@ -15,6 +15,10 @@ side of the stage entering first. The top side has a heatshield, which
 protects the body. It lands upside-down with eight SuperDraco engines
 in a configuration similar to the Dragon v2.
 
+# Credits
+
+Modeled by me with input from [/u/Blue525](http://www.reddit.com/user/Blue525) and others.
+
 # License
 
 CC0.
