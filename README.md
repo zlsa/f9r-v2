@@ -25,4 +25,4 @@ CC0.
 
 # Donate
 
-Bitcoin: [1BRyexrFpC8xkvcNBjERqsD77Tj2sPyZhg](bitcoin:1BRyexrFpC8xkvcNBjERqsD77Tj2sPyZhg?amount=0.02)
+Bitcoin: [1GfTGbqZ8EjD7k9NEydoBR5TUNJU7NwiNH](bitcoin:1GfTGbqZ8EjD7k9NEydoBR5TUNJU7NwiNH?amount=0.02)
